@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthsingh31&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthsingh31" /> </p>
 
+<p> <img align=“center” width="600" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif"/></p>
+
 - 🔭 I’m currently Studying **B.Tech Specialization in Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://yatharthsingh31.github.io/Portfolio/](https://yatharthsingh31.github.io/Portfolio/)
@@ -13,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-Vw77v8ZzOtxNSoRrgaqGYC9_63toa_D/view?usp=share_link](https://drive.google.com/file/d/1-Vw77v8ZzOtxNSoRrgaqGYC9_63toa_D/view?usp=share_link)
 
-<img align=“right”  alt="codinf" width="200" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
